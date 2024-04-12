@@ -1,5 +1,5 @@
 import json
-
+##
 def readjson(file: str):
     with open(file, 'r') as e:
         data = json.load(e)
