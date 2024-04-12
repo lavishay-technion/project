@@ -1,0 +1,6 @@
+[
+  {"title": "Book One", "author": "Author A", "genre": "Fantasy"},
+  {"title": "Book Two", "author": "Author B", "genre": "Science Fiction"},
+  {"title": "Book Three", "author": "Author A", "genre": "Fantasy"},
+  {"title": "Book Four", "author": "Author C", "genre": "Mystery"}
+]

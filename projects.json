@@ -1,0 +1,18 @@
+{
+  "projects": [
+    {
+      "name": "Project Mercury",
+      "tasks": [
+        {"title": "Task 1", "dueDate": "2024-04-20"},
+        {"title": "Task 2", "dueDate": "2024-05-01"}
+      ]
+    },
+    {
+      "name": "Project Gemini",
+      "tasks": [
+        {"title": "Task 1", "dueDate": "2024-03-15"},
+        {"title": "Task 2", "dueDate": "2024-03-20"}
+      ]
+    }
+  ]
+}

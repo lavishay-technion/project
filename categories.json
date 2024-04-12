@@ -1,0 +1,7 @@
+[
+  {"category": "books", "value": 45},
+  {"category": "electronics", "value": 120},
+  {"category": "groceries", "value": 35},
+  {"category": "books", "value": 20},
+  {"category": "electronics", "value": 80}
+]

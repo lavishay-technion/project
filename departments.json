@@ -1,0 +1,18 @@
+{
+  "departments": [
+    {
+      "name": "Engineering",
+      "employees": [
+        {"name": "John Doe", "age": 30},
+        {"name": "Jane Smith", "age": 25}
+      ]
+    },
+    {
+      "name": "HR",
+      "employees": [
+        {"name": "Jim Brown", "age": 40},
+        {"name": "Jackie Grey", "age": 35}
+      ]
+    }
+  ]
+}

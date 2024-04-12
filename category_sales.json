@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "name": "Electronics",
+      "sales": 1000,
+      "subcategories": [
+        {"name": "Computers", "sales": 1500},
+        {"name": "Smartphones", "sales": 2000}
+      ]
+    },
+    {
+      "name": "Books",
+      "sales": 800,
+      "subcategories": [
+        {"name": "Fiction", "sales": 600},
+        {"name": "Non-Fiction", "sales": 400}
+      ]
+    }
+  ]
+}
