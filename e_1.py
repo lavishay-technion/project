@@ -25,7 +25,7 @@ def printold(data, filtered_age):
     print(lst)
 
 
-a=readjson('names.json')
-# incrementage(a)
-# writejson('names.json', a)
-printold(a, 26)
+# a=readjson('names.json')
+# # incrementage(a)
+# # writejson('names.json', a)
+# printold(a, 26)
