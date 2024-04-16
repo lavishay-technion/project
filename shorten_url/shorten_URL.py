@@ -22,7 +22,7 @@ def shorten_url(long_url, jsonfile: str,expiration ):
             istrue = check_unique(data, short_url)
         data.append({'long':long_url, 'short': short_url, 'exp':expiration})
         with open(jsonfile, 'w') as r:
-            json.dump(data, r, indent = 2)
+            json.dump(data, r, indent = 6)
     
 
 
@@ -35,4 +35,4 @@ def check_unique(jsonfile, text):
                 return True
     return False
 
-shorten_url("https://github.com/lavishay-technion/project",'short_urls.json' , datetime(2024, 4, 17).strftime("%d/%m/%Y"))
+shorten_url("https://github.com/lavishay-technion/",'short_urls.json' , datetime(2024, 4, 17).strftime("%d/%m/%Y"))
